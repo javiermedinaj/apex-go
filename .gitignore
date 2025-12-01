@@ -1,0 +1,22 @@
+# Environment variables (sensitive)
+.env
+*.env
+
+# Node modules
+node_modules/
+
+# Terraform sensitive files
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+*.tfplan
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*.vscode
+# Playwright screenshots temp folder
+.playwright-mcp/

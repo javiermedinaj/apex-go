@@ -1,0 +1,5 @@
+[
+  { "domain": "competencia.com", "tier": "BLACKLIST" },
+  { "domain": "techgiant.com", "tier": "VIP" },
+  { "domain": "banco.com", "tier": "VIP" }
+]
