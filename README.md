@@ -33,6 +33,9 @@ Frontend (Astro) → Middleware (Go) → Salesforce (Apex REST API)
    - **BLACKLIST** → `Status: Closed - Not Converted` + alerta
    - **STANDARD** → `Rating: Warm`
 
+## Capturas de Pantalla
+![PanelSalesForce](./demo/salesforce.png)
+
 ### Homepage Completa
 ![Homepage](./demo/homepage-full.png)
 
